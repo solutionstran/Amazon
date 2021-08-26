@@ -10,4 +10,8 @@ int main()
 }
  hii
  all this my code
+   
+  god is will be there 
+   c programming 
+   is always best option
 
