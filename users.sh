@@ -8,8 +8,11 @@ int main()
 	printf("sum is %d : ", sum);
 	return ;
 }
- hii
- all this my code
+ 
+
+hello
+guys
+are you there
    
   god is will be there 
    c programming 
